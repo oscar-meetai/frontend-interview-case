@@ -12,4 +12,5 @@ We will evaluate your performance on the structure of your code, the UI implemen
 
 # Deadlne
 
-**1 day** after you receive this assignment. Exactly 24 hours later.
+**1 day** after you receive this assignment. Exactly 24 hours later. **Please send in your code and website link to oscar@keepfika.com**. Good luck!
+
