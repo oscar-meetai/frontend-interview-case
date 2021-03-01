@@ -7,10 +7,12 @@ You are in university and meet the rich international student who wants to displ
 # Requirements
 Use https://ant.design/ to find your table UI and implement it using Redux, Redux-Thunk. The API is found here: https://swapi.dev/ and you should display all the /people in the database on a table. If some fields are missing for some people, please handle that in a nice way.
 
+You **MUST** write your code on a github repo that you later can send in to show all your commits.
+
 # Evaluation
 We will evaluate your performance on the structure of your code, the UI implementation as well as the final results.
 
-# Deadlne
+# Deadline
 
-**1 day** after you receive this assignment. Exactly 24 hours later. **Please send in your project to oscar@keepfika.com**. Good luck!
+**1 day** after you receive this assignment. Exactly 24 hours later. **Please send in your github project to oscar@keepfika.com**. Good luck!
 
